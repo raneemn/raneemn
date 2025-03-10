@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raneemn&label=Profile%20views&color=0e75b6&style=flat" alt="raneemn" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning Mobile Application Development using Flutter Framework**
+- 🌱 I’m currently learning **Mobile Application Development using Flutter Framework**
 
 - 💬 Ask me about **Dart, Flutter, C++**
 
-- 📫 How to reach me **: by LinkedIn account mentioned below**
+- 📫 How to reach me **by LinkedIn account mentioned below**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
